@@ -9,7 +9,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-			// komentarz
             //Thread t = new Thread(func);
             //t.Start();
 
