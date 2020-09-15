@@ -26,6 +26,7 @@ namespace ConsoleApp1
 
         static int func()
         {
+			// komentarz2
             for (int i = 1; i < 9999; ++i)
             {
                 Thread.Sleep(1000);
