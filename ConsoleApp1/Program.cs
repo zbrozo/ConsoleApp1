@@ -12,7 +12,7 @@ namespace ConsoleApp1
             //Thread t = new Thread(func);
             //t.Start();
 
-			// komentarz9
+			// komentarz1000
 			// komentarz8
 
 
@@ -37,6 +37,10 @@ namespace ConsoleApp1
 
         static int func()
         {
+			// komentarz 1000
+			
+			
+			
 			// komentarz2
             for (int i = 1; i < 9999; ++i)
             {
