@@ -12,6 +12,7 @@ namespace ConsoleApp1
             //Thread t = new Thread(func);
             //t.Start();
 
+			// komentarz9
 			// komentarz8
 
 
