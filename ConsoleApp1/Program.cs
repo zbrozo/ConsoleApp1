@@ -12,6 +12,7 @@ namespace ConsoleApp1
             //Thread t = new Thread(func);
             //t.Start();
 
+			// komentarz7
             Task.Run(func);
 
             Console.WriteLine("Hello World!");
