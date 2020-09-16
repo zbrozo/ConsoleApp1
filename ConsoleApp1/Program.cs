@@ -38,8 +38,7 @@ namespace ConsoleApp1
         static int func()
         {
 			// komentarz 1000
-			
-			
+			// komentasz 1001
 			
 			// komentarz2
             for (int i = 1; i < 9999; ++i)
