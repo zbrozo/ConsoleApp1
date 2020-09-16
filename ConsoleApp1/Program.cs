@@ -25,6 +25,7 @@ namespace ConsoleApp1
 
         static async void Go()
         {
+			// komentarz6
             await func();
         }
 
