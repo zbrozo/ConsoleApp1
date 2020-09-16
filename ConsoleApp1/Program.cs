@@ -15,6 +15,7 @@ namespace ConsoleApp1
 			// komentarz1000
 			// komentarz8
 
+			// komentarz100
 
 			// komentarz7
             Task.Run(func);
